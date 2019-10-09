@@ -1,22 +1,15 @@
+#!/usr/bin/env python
 from flask import Flask
-import sys
-import optparse
-import time
-
 app = Flask(__name__)
 
-start = int(round(time.time()))
-
-@app.route("/")
+@app.route('/')
+@app.route('/hello/')
 def hello_world():
+    return 'Hello World!\n'
 
-    return "Hello world from Distelli & Docker!"
+@app.route('/hello/<username>') # dynamic route
+def hello_user(username):
+    return 'Why Hello %s!\n' % username
 
 if __name__ == '__main__':
-    parser = optparse.OptionParser(usage="python simpleapp.py -p ")
-    parser.add_option('-p', '--port', action='store', dest='port', help='The port to listen on.')
-    (args, _) = parser.parse_args()
-    if args.port == None:
-        print "Missing required argument: -p/--port"
-        sys.exit(1)
-    app.run(host='0.0.0.0', port=int(args.port), debug=False)
+    app.run(host='0.0.0.0')     # open for everyone
