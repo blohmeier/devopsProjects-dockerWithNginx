@@ -1,0 +1,32 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-10-09 23:42:46.25 UTC</timestamp>
+  <original>
+    <name>capstone</name>
+    <number>1</number>
+  </original>
+  <md5sum>dfc29bfa7d41dd1616257cfe7cb4462c</md5sum>
+  <fileName>Docker image sha256:dfc29bfa7d41dd1616257cfe7cb4462c8fd566e9c4d2b2cefb5ea2adf57ad6b8</fileName>
+  <usages/>
+  <facets>
+    <org.jenkinsci.plugins.docker.commons.fingerprint.DockerRunFingerprintFacet plugin="docker-commons@1.15">
+      <timestamp>1570664566056</timestamp>
+      <imageId>sha256:dfc29bfa7d41dd1616257cfe7cb4462c8fd566e9c4d2b2cefb5ea2adf57ad6b8</imageId>
+      <usages>
+        <entry>
+          <string>capstone</string>
+          <ranges>1</ranges>
+        </entry>
+      </usages>
+      <records class="java.util.concurrent.CopyOnWriteArrayList">
+        <org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+          <host>63285db23594</host>
+          <containerId>63285db235947e9ee08b03ea7f3c6ccc38ed1359b0f5191e14a0d71be013138a</containerId>
+          <containerName>/tender_edison</containerName>
+          <created>1570664564000</created>
+          <tags/>
+        </org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+      </records>
+    </org.jenkinsci.plugins.docker.commons.fingerprint.DockerRunFingerprintFacet>
+  </facets>
+</fingerprint>
