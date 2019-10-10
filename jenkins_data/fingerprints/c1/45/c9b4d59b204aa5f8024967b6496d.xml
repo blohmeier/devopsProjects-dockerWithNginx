@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-10-10 00:19:43.456 UTC</timestamp>
+  <md5sum>c145c9b4d59b204aa5f8024967b6496d</md5sum>
+  <fileName>Credential id=github name=capstoneadmin/****** (GitHub Access Token)</fileName>
+  <usages>
+    <entry>
+      <string>devopsProjects-dockerWithNginx/master</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

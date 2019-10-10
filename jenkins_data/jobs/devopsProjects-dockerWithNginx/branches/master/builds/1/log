@@ -1,0 +1,162 @@
+Branch indexing
+[8mha:////4LpmDYnMHiRYwlDvMhFHBdz+YFRneimRdNvK2AtG5lb0AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTuZk6JagBlelMFjgAAAA==[0mConnecting to https://api.github.com using capstoneadmin/****** (GitHub Access Token)
+Obtained Jenkinsfile from 2e0e9e7abc7fbc5b711d378a090476d9aea5e117
+Running in Durability level: MAX_SURVIVABILITY
+[8mha:////4Nz01bkJZn225XALeTCQzc5xIoWHXplk6I5ESlkKv+9mAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4Nc7X1sHp8p+ctHmWJDS97kfabsSWoefLj+Xb4zI99muAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4Nm6AHKZPhpLPy8eX8HnhsBWP5aWT+bjEOzFtvwQdYeeAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZh/eT83ILSktQifY3cxGIgrakPAHib2iPIAAAA[0mJenkins in /var/jenkins_home/workspace/sProjects-dockerWithNginx_master
+[8mha:////4I7C0Trp13G0LaFWF+jLAOB8toZMNj6yQnsvd4uANHQ0AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4Buz/pqDBzQFKibB76+obVlz1L6B5KXyogO2BD60JwiAAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4HaxCQNKrE5KlzGtIXMgZ/EBbIyYXVmmGDRgvYJYQYSEAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Declarative: Checkout SCM)
+[8mha:////4MNZ/+XC8Axuo3zVg8p0kE8Y48TYUGB1tjbVZ4qMtQdyAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] checkout
+using credential github
+Cloning the remote Git repository
+Cloning with configured refspecs honoured and without tags
+Cloning repository https://github.com/blohmeier/devopsProjects-dockerWithNginx.git
+ > git init /var/jenkins_home/workspace/sProjects-dockerWithNginx_master # timeout=10
+Fetching upstream changes from https://github.com/blohmeier/devopsProjects-dockerWithNginx.git
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials GitHub Access Token
+ > git fetch --no-tags --force --progress -- https://github.com/blohmeier/devopsProjects-dockerWithNginx.git +refs/heads/master:refs/remotes/origin/master
+ > git config remote.origin.url https://github.com/blohmeier/devopsProjects-dockerWithNginx.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/master:refs/remotes/origin/master # timeout=10
+ > git config remote.origin.url https://github.com/blohmeier/devopsProjects-dockerWithNginx.git # timeout=10
+Cleaning workspace
+ > git rev-parse --verify HEAD # timeout=10
+No valid HEAD. Skipping the resetting
+ > git clean -fdx # timeout=10
+Fetching without tags
+Fetching upstream changes from https://github.com/blohmeier/devopsProjects-dockerWithNginx.git
+using GIT_ASKPASS to set credentials GitHub Access Token
+ > git fetch --no-tags --force --progress -- https://github.com/blohmeier/devopsProjects-dockerWithNginx.git +refs/heads/master:refs/remotes/origin/master
+Checking out Revision 2e0e9e7abc7fbc5b711d378a090476d9aea5e117 (master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 2e0e9e7abc7fbc5b711d378a090476d9aea5e117
+ > git branch -a -v --no-abbrev # timeout=10
+ > git checkout -b master 2e0e9e7abc7fbc5b711d378a090476d9aea5e117
+Commit message: "updating dependencies"
+First time build. Skipping changelog.
+Cleaning workspace
+ > git rev-parse --verify HEAD # timeout=10
+Resetting working tree
+ > git reset --hard # timeout=10
+ > git clean -fdx # timeout=10
+[8mha:////4IXj9pTzfPFEZyLQNsZQ1T3lIm8cw45M2GyQPnwlcbFrAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4Fk+Pxc1u3mB42FNNKfoqgBBcDiINeM5h8ag6IoRqnmZAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4P9eTCnEQJTLYURfToWkFQm4vZg06R4qnsmMWWM44T9BAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] withEnv
+[8mha:////4GeytIltXPIQkImTawNR7ZySShSMx4xEdamsle16FewZAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] {
+[8mha:////4EKEstMT46wFzJAhpq+aNcCQMtlU1lgQC3GxXu0QZFU/AAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggysXWsbBkaT4AJIoT5nwCRVJ7Iq3kH0cxYucXOvm3e8wXrGOBIQTOrcDAYO8O8m3RZLFMYro4ys3RhHWEkp5hQWVCvTgsKSgqWVDWsOGwUdo6iQZ1gy628y8ZJ1M05hfIdONSmH+EBFS/mJEP6whxgd5v6SPjz/BXA7BPUbfupvX8DpQJrNb4AAAA=[0m[Pipeline] sh
++ docker inspect -f . python:3.7.2
+
+Error: No such object: python:3.7.2
+[8mha:////4KmG8fQA+FNiGO/P3YZso0O5zszdvfz5hqPrtMJB5spPAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyGUvHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzD5B3baf2vs35DNwLL4AAAA=[0m[Pipeline] sh
++ docker pull python:3.7.2
+3.7.2: Pulling from library/python
+e79bb959ec00: Pulling fs layer
+d4b7902036fe: Pulling fs layer
+1b2a72d4e030: Pulling fs layer
+d54db43011fd: Pulling fs layer
+69d473365bb3: Pulling fs layer
+7dc3a6a0e509: Pulling fs layer
+a288a79001c3: Pulling fs layer
+7d3cdae56021: Pulling fs layer
+dbf17696f820: Pulling fs layer
+7dc3a6a0e509: Waiting
+a288a79001c3: Waiting
+d54db43011fd: Waiting
+69d473365bb3: Waiting
+7d3cdae56021: Waiting
+dbf17696f820: Waiting
+1b2a72d4e030: Verifying Checksum
+1b2a72d4e030: Download complete
+d4b7902036fe: Verifying Checksum
+d4b7902036fe: Download complete
+d54db43011fd: Verifying Checksum
+d54db43011fd: Download complete
+7dc3a6a0e509: Verifying Checksum
+7dc3a6a0e509: Download complete
+a288a79001c3: Verifying Checksum
+a288a79001c3: Download complete
+7d3cdae56021: Download complete
+dbf17696f820: Download complete
+e79bb959ec00: Verifying Checksum
+e79bb959ec00: Download complete
+e79bb959ec00: Pull complete
+d4b7902036fe: Pull complete
+1b2a72d4e030: Pull complete
+d54db43011fd: Pull complete
+69d473365bb3: Verifying Checksum
+69d473365bb3: Download complete
+69d473365bb3: Pull complete
+7dc3a6a0e509: Pull complete
+a288a79001c3: Pull complete
+7d3cdae56021: Pull complete
+dbf17696f820: Pull complete
+Digest: sha256:1eecfb3b9cee73af760e00d3aa59bae76c4c0160ddb0213f14f7e0ae968e4835
+Status: Downloaded newer image for python:3.7.2
+[8mha:////4PvswPXcPSWX7vxG0OTRRUXjffnlEz4IHf2sntInFH08AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUldgQE2uUhROEJoSk0f9tkpJOnIircQdaKjHhwbItWe/1hioGOFEwzGnsLMbWst6PZk4sU+hunjJzdGUtYSSvmdBZkNLntQpKGlYVJWw4bDW2nqJFk2DHnXzI2ks09SWFeTtyKK0a4AkFn8lJhvQtU4D9fVSR8Mf5C4CpT1A2zWKH5Vl9AHLv803CAAAA[0m[Pipeline] withDockerContainer
+Jenkins seems to be running inside container d0e6e975394123f883327ca1e3ddee85bb0477ab6f6dbf1c51484aebcb730065
+$ docker run -t -d -u 0:0 -w /var/jenkins_home/workspace/sProjects-dockerWithNginx_master --volumes-from d0e6e975394123f883327ca1e3ddee85bb0477ab6f6dbf1c51484aebcb730065 -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** python:3.7.2 cat
+$ docker top e5af8828ebd9e17f20150f59c19fbe132ac6d8379de108ae36b404ee2a420095 -eo pid,comm
+[8mha:////4K/ePCEDTE93y3VVpjxLEvv70gftJaKFaK1Laz2eqtxMAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUSDAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD5WQ+PfCAAAA[0m[Pipeline] {
+[8mha:////4Pk/M3qCclBWVX1r3UsFLgMqo0WNhW7bm54DR+hx9/RSAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUDLAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD/s94rDCAAAA[0m[Pipeline] stage
+[8mha:////4G38H8ugQxyF+3rYKGVFLrMahCIYtKyVHK4FQbtW2dSFAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohULDAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD1+IXOLCAAAA[0m[Pipeline] { (build)
+[8mha:////4JSqH31oq2SdX9NiNEiU1s5KigL1qDuZI5wAJH3kUqwKAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKpAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHNxXfVKy+AAAA[0m[Pipeline] sh
++ pip install -r requirements.txt
+Collecting Click==7.0 (from -r requirements.txt (line 1))
+  Downloading https://files.pythonhosted.org/packages/fa/37/45185cb5abbc30d7257104c434fe0b07e5a195a6847506c074527aa599ec/Click-7.0-py2.py3-none-any.whl (81kB)
+Collecting Flask==1.0.2 (from -r requirements.txt (line 2))
+  Downloading https://files.pythonhosted.org/packages/7f/e7/08578774ed4536d3242b14dacb4696386634607af824ea997202cd0edb4b/Flask-1.0.2-py2.py3-none-any.whl (91kB)
+Collecting itsdangerous==1.1.0 (from -r requirements.txt (line 3))
+  Downloading https://files.pythonhosted.org/packages/76/ae/44b03b253d6fade317f32c24d100b3b35c2239807046a4c953c7b89fa49e/itsdangerous-1.1.0-py2.py3-none-any.whl
+Collecting Jinja2==2.10.1 (from -r requirements.txt (line 4))
+  Downloading https://files.pythonhosted.org/packages/1d/e7/fd8b501e7a6dfe492a433deb7b9d833d39ca74916fa8bc63dd1a4947a671/Jinja2-2.10.1-py2.py3-none-any.whl (124kB)
+Collecting MarkupSafe==1.1.0 (from -r requirements.txt (line 5))
+  Downloading https://files.pythonhosted.org/packages/e4/c4/adcc2d6f2ac2146cc04e076f14f1006c1de8e1e747fa067668b6573000b8/MarkupSafe-1.1.0-cp37-cp37m-manylinux1_x86_64.whl
+Collecting Werkzeug==0.15.3 (from -r requirements.txt (line 6))
+  Downloading https://files.pythonhosted.org/packages/3d/bf/79101bd1d6a2b3fe0888e8d6e039800b173f26b7388308fc4bcc45de8d0a/Werkzeug-0.15.3-py2.py3-none-any.whl (327kB)
+Collecting xmlrunner==1.7.7 (from -r requirements.txt (line 7))
+  Downloading https://files.pythonhosted.org/packages/57/c0/a19e29bc6038a56bb690549573af6ea11a9d2a5c07aff2e27ed308c2cab9/xmlrunner-1.7.7.tar.gz
+Building wheels for collected packages: xmlrunner
+  Building wheel for xmlrunner (setup.py): started
+  Building wheel for xmlrunner (setup.py): finished with status 'done'
+  Stored in directory: /root/.cache/pip/wheels/c8/0e/05/28e4ff5b683c7a319756b412c7f4dc508a7ffa654e12c54ef5
+Successfully built xmlrunner
+Installing collected packages: Click, Werkzeug, itsdangerous, MarkupSafe, Jinja2, Flask, xmlrunner
+Successfully installed Click-7.0 Flask-1.0.2 Jinja2-2.10.1 MarkupSafe-1.1.0 Werkzeug-0.15.3 itsdangerous-1.1.0 xmlrunner-1.7.7
+You are using pip version 19.0.3, however version 19.2.3 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+[8mha:////4PEsy5XQh+7MdWF9yeOpxTE0Uer1K/+ACIVuJwJNdtxQAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKoQQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N9Jjga++AAAA[0m[Pipeline] }
+[8mha:////4Ae/WdhLGL+0WJLmcDwDqQz5qf+bSgID1CTW1DfRyTDRAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICFDQoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcr9Ntfu8AERGGHOvgAAAA==[0m[Pipeline] // stage
+[8mha:////4DS8avzfSjkeKAXqDvE8MCRZkD8oX/iNuO59ekMqqmEdAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohURWJCTF2jLpwgNCEkjf4vSUo6cSKuxh0IVGLCg2Vbst7zBVXwcCSvmVU4GAy9YaObdE4skR8ujhKzdGY9YSCnWKdSR1K1S+0oKlhUlLDisFbYOwoGdYQNt+IuaidQ16fo83bgUBp5gwcUPJOj8PFbZg/b6yQD4Y/zFwDzGKFs9tl2zedZvQHeFw+cwgAAAA==[0m[Pipeline] stage
+[8mha:////4KGcXLAcPigtYDMj0ykBL7yif7GwNtilq9a42d+g+vuQAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycohUdEVMrFEXThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbyhjgRMFwp7GzGFvLez+aOfFMobt5ytzRlbeEkbzmjc4NKX1ea0NJw6qCwUbAVmPrKVo0CXbCyYesvERTXVKYt6MAZtUATyjETE4ypG+ZAuzvo4qEP85fAEx9AlYfFquXZ/kBAsTc3cIAAAA=[0m[Pipeline] { (test)
+[8mha:////4HP+C2RRLdlYrz2EtqjKGABg91M1GKEha/7WwWoiayPYAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyE0vHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzD5B3baf2vs3w5BRkb4AAAA=[0m[Pipeline] sh
++ python test.py
+
+Running tests...
+----------------------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.013s
+
+OK
+
+Generating XML reports...
+Post stage
+[8mha:////4P7CmbHiKi2p8ObxxNxdMGvzjZSZASVyurO/TMRbWE87AAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiaNG7GyZWw+AXYIkLJexSodPKL/DX/QbSJk3e4uecu5/mCdQxwpKCZVTgYjJ1h3k26LJYpDFdHmVm6sI4wklNMqCyoV6cFBSUFS6oaVhw2CjtH0aBOsOVW3mXjJOrmnEL5Dhxq04/wgIoXc5IhfWEOsLtNfST8ef4KYPYJ6rb91N6/AQQGEN6+AAAA[0m[Pipeline] junit
+Recording test results
+[8mha:////4Dvz4KcvtZkTh3YyIELi7wWZnVoeNpw2s+7NSFmddETrAAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiaNHEyTq6ExS/AFhFK3qNApZNf5K/5D6JNnLzDzT13Oc8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALP3Cep2/6n2DXge7LK+AAAA[0m[Pipeline] }
+[8mha:////4Os00nSc3cYp8JNMhWAKTmAhouJWDA8gk9VREL5bCjwgAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKGgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbN2w9ca2+AAAA[0m[Pipeline] // stage
+[8mha:////4KUksKtdYftHDdW0UnsyFd4lD5dJEy9STzbzp+oMn39vAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIikBAFSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryd8i13X8AE3ltSr4AAAA=[0m[Pipeline] }
+$ docker stop --time=1 e5af8828ebd9e17f20150f59c19fbe132ac6d8379de108ae36b404ee2a420095
+$ docker rm -f e5af8828ebd9e17f20150f59c19fbe132ac6d8379de108ae36b404ee2a420095
+[8mha:////4GYs8b6kfquOapnBeD9QVcSQ9CiToc6zLbM+9ZRuUpReAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiEAUSSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryd8i13X8AUPs8zL4AAAA=[0m[Pipeline] // withDockerContainer
+[8mha:////4AxPZt2cUVNdObbRbBdOFzrxQ2gD61EfqP0HnCpDW/mjAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKi0CFEldZKwwtMbIwT687YDknFi/gaf8AiEhVbrHa2mdcb1jHAiYPBXtNgKXYWvRtNXjhxGK6OJ+z5gh1TZKex1VPLSjcLtpw0LClKWAnYaOocR0smwVb08iErJ8lU5xTydxRQWnWHJxQim5MM6QtzgN1tVJHp5/krgNn7BOX+kKuuP3rcCne+AAAA[0m[Pipeline] }
+[8mha:////4IkZ2gXG5nFpRkXhIKAoLG8l7DteM8rM4JKdCPsZ4Z33AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOISRImo0lppeIGJjXFi3RnbIal4EV/jD1hEomKL1c4283rDOgY4cTDYaxosxc6id6PJCycOw9XxhD1fsGOK7DS2empZ6WbBlpOGJUUJKwEbTZ3jaMkk2IpePmTlJJnqnEL+jgJKq+7whEJkc5IhfWEOsLuNKjL9PH8FMHufoDzUufb1B5C2dYG+AAAA[0m[Pipeline] // withEnv
+[8mha:////4DiGWW9fRuhpjFPi3fUDwryZwZRBJIjB0gUqoC5LryDoAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRgg5R0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Q77aCbP8BPqPtor0AAAA=[0m[Pipeline] }
+[8mha:////4K/Nx+MQhlzkm613WHKpMiqznXKps+hI/GhJQrpJL0cMAAAAoh+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkMhon14bFL6hQa6F5D9uHMPlF/pr/IJHEyTvdc5bzemOdIo4cnWotdZ5S7VUfBjc/NXLsroFH1fJF1UyJg1WVHStu7GnBisViWZZjpbGxVAdOnpxgq1vzMEUw5IqzxNkdNHLf3PFEpueymChfmCJ2t6FJTL/O3wCmvhfk5V6QlR9NTCl7vQAAAA==[0m[Pipeline] // node
+[8mha:////4OzYMr/dxivqQxb3YTmmYkbJcHTyDmJfiipNqfQkbComAAAAoh+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkMhon14bFL6hQa6F5D9uHMPlF/pr/IJHEyTvdc5bzemOdIo4cnWotdZ5S7VUfBjc/NXLsroFH1fJF1UyJg1WVHStu7GnBisViWZZjpbGxVAdOnpxgq1vzMEUw5IqzxNkdNHLf3PFEpueymChfmCJ2t6FJTL/O3wCmvhfkZSnI9h9rVU4xvQAAAA==[0m[Pipeline] End of Pipeline
+
+GitHub has been notified of this commit’s build result
+
+Finished: SUCCESS

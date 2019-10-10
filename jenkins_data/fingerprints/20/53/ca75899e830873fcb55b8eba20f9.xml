@@ -1,0 +1,32 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-10-10 00:22:54.842 UTC</timestamp>
+  <original>
+    <name>devopsProjects-dockerWithNginx/master</name>
+    <number>1</number>
+  </original>
+  <md5sum>2053ca75899e830873fcb55b8eba20f9</md5sum>
+  <fileName>Docker image sha256:2053ca75899e830873fcb55b8eba20f9c9f6bc35b3985c99d66f1f393163f7c0</fileName>
+  <usages/>
+  <facets>
+    <org.jenkinsci.plugins.docker.commons.fingerprint.DockerRunFingerprintFacet plugin="docker-commons@1.15">
+      <timestamp>1570666974859</timestamp>
+      <imageId>sha256:2053ca75899e830873fcb55b8eba20f9c9f6bc35b3985c99d66f1f393163f7c0</imageId>
+      <usages>
+        <entry>
+          <string>devopsProjects-dockerWithNginx/master</string>
+          <ranges>1</ranges>
+        </entry>
+      </usages>
+      <records class="java.util.concurrent.CopyOnWriteArrayList">
+        <org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+          <host>e5af8828ebd9</host>
+          <containerId>e5af8828ebd9e17f20150f59c19fbe132ac6d8379de108ae36b404ee2a420095</containerId>
+          <containerName>/flamboyant_gagarin</containerName>
+          <created>1570666973000</created>
+          <tags/>
+        </org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+      </records>
+    </org.jenkinsci.plugins.docker.commons.fingerprint.DockerRunFingerprintFacet>
+  </facets>
+</fingerprint>

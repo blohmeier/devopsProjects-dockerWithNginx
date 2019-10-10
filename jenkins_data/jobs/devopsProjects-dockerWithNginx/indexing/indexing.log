@@ -1,0 +1,26 @@
+Started by user [8mha:////4JuJtvSbMkXkdXbzimqInLImvx3HwylvtwJSuCi3NTRyAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL95MSC4pL8vNTElNzMPACw2fkGyAAAAA==[0mBrett Lohmeier
+[Thu Oct 10 00:19:39 GMT 2019] Starting branch indexing...
+[8mha:////4Isc/Xahey0unDNfavOpQEhxS1M+8YXWtgJZRH7XNYLXAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTuZk5RZwC2vP+YjgAAAA==[0mConnecting to https://api.github.com using capstoneadmin/****** (GitHub Access Token)
+Examining [8mha:////4FIXJf9laWOR9oVJlcQULWMPREKjcjl99M92eY63xIhEAAAAuR+LCAAAAAAAAP9djDsOwjAQRJcgOAAl4gA0xB0FKBUNSFGEREGdz8o2cWxrvYnCNbgGNByC43AHguiYZqZ48x5vmASChWqr4GxcOhucwXh/9UhG2zpzjOvk/kxu/hVBdICpQStZpTBuyTDM0kve5cLkVooTk7Zy2xPM/3S7X39l8MsoAuj9MJYMW8Xsw0YIqVm1xfBqRGGcalAjiQo758OR3AVLDqvKlTXSeSAzqW3/AVN6SiHAAAAA[0mblohmeier/devopsProjects-dockerWithNginx
+
+  Checking branches...
+
+  Getting remote branches...
+
+    Checking branch [8mha:////4GZylCXR4J1byJCUyHe8HXv6V7mOKXvXMEs4POdPVUj4AAAAvx+LCAAAAAAAAP9djDsOwjAQRJcgcgBKxBWIOwpQKgpAiiIkCup8VrbBsa31JgrX4BrQcAiOwx0IomOameLNe7xhEgjmqq2Ds0nlbHAGk93VIxltL7ljXKb3Z3rzrwiiPcQGrWSVwbglwzDNzkVXCFNYKY5M2sp1TzD7021+/ZXBL6MIoPfDiBm2itmHlRBSs2rL4dWI0jjVoEYSNXbOhwO5M1YcFrWrLkingcyltr1gQhRNERjpA0vu0R/MAAAA[0mmaster
+      ‘Jenkinsfile’ found
+    Met criteria
+Scheduled build for branch: master
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+  Getting remote pull requests...
+
+  0 pull requests were processed
+
+Finished examining blohmeier/devopsProjects-dockerWithNginx
+
+[Thu Oct 10 00:19:41 GMT 2019] Finished branch indexing. Indexing took 1.1 sec
+Finished: SUCCESS
